@@ -42,7 +42,6 @@ Key Functional Details
 Simulation Results
 
 Simulations in ModelSim validate the design's functionality across various scenarios, confirming that the master accurately initiates, transfers, and terminates communication as per the I2C protocol.
-https://github.com/user-attachments/assets/c5fcdb79-fd64-4507-a0f4-3f24b497ab72
 
 Synthesis
 
